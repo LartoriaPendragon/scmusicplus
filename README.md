@@ -3,7 +3,7 @@
 </p>
 
 # SCMusicPlus
-Enhance your SoundCloud experience with the following features:
+Enhance your SoundCloud experience with the following features
 - Remove Ads
 - Remove Promoted Playlists
 - Remove Upsell Buttons
